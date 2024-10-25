@@ -1,4 +1,8 @@
-# To Refresh
+# Read me
+
+This project demonstrates how to use cloud bus
+
+# To Refresh Manually
 
 ```
 curl -X POST http://localhost:8080/actuator/refresh
